@@ -1,4 +1,5 @@
 .page {
+  max-width: 4000px;
   background-color: #2a2c2f;
   margin: auto;
   font-family: "Inter";
