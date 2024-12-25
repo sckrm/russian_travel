@@ -1,0 +1,7 @@
+.place__paragraphs {
+  display: flex;
+  width: calc((100% - 32px) / 2);
+  flex-direction: column;
+  margin: 0;
+  /* border: 3px solid red; */
+}

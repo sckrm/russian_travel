@@ -1,0 +1,11 @@
+.places__place {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 0 80px 0;
+  /* border: 3px solid red; */
+}
+
+.places__place:last-child {
+  margin: 0;
+}

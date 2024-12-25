@@ -1,0 +1,8 @@
+.header__lang-links {
+  display: grid;
+  /* border: 3px solid red; */
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: minmax(42px, 52px);
+  align-items: center;
+  column-gap: 18px;
+}
