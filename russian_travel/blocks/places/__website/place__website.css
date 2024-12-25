@@ -1,6 +1,0 @@
-.place__website {
-  align-self: flex-end;
-  width: calc((100% - 32px) / 2);
-  margin: 0 0 48px 0;
-  /* border: 3px solid red; */
-}

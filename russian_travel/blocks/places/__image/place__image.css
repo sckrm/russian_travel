@@ -1,6 +1,0 @@
-.place__image {
-  width: calc((100% - 32px) / 2);
-  aspect-ratio: 1 / 1;
-  margin: 0 32px 0 0;
-  /* border: 3px solid red; */
-}
